@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">guessingNumber</string>
+    <string name="hintText">guess</string>
+    <string name="check">guess</string>
+    <string name="reset">reset</string>
+    <string name="hintPlcaeholder">guess your number here</string>
+</resources>
